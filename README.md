@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Taner Saydam
 
-I'm Taner Saydam<br>Software Trainer.<br>
+<br>Software Trainer<br>
 
 
 ## 🌐 Socials:
