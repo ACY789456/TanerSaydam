@@ -3,8 +3,9 @@
 <br>Software Trainer<br>
 
 ## Udemy
-Udemy Temmuz Ayı boyunca geçerli indirim kodu:
-TEMMUZ2023
+Her ay, ay boyunca geçerli indirim kodu:
+[AY][YIL]
+Örneğin: AGUSTOS2023
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/taner-saydam-b26336222) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@taner-saydam) 
